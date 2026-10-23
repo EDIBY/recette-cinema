@@ -1,0 +1,18 @@
+Partie_1
+PS C:\Users\DELL\Documents\Cours_JS\recette-cinema> node partie1.js
+Age : 11, prix du billet : 1500
+Age : 12, prix du billet : 1500
+Age : 13, prix du billet : 1500
+Age : 14, prix du billet : 1500
+Age : 15, prix du billet : 1500
+Age : 16, prix du billet : 2500
+Age : 17, prix du billet : 2500
+Age : 18, prix du billet : 2500
+Age : 19, prix du billet : 2500
+Age : 20, prix du billet : 2500
+Recettetotale : 20000
+Totalticket : 10
+
+partie2
+PS C:\Users\DELL\Documents\Cours_JS\recette-cinema> node partie2.js
+Recettetotale : 18500
